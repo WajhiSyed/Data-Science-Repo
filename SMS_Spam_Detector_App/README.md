@@ -1,4 +1,4 @@
-# SMS-Message-Spam-Detector
+# Spam Detector Web App
 
 A simple Flask API to detect spam or ham using Python and sklearn
 
